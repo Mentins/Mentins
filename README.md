@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mentins&langs_count=8)](https://github.com/Mentins/github-readme-stats)
 <br>
 
-Sou um apaixonado por tecnologia. No momento eu me encontro estudando sobre programação web independentemente, mais precisamente o JavaScript puro, para quando eu me sentir mais confortável nesta tecnologia eu começar a aprender frameworks (estou pensando em começar pelo React e depois Angular).
+Sou um apaixonado por tecnologia. No momento eu me encontro estudando sobre programação web, mais precisamente o JavaScript puro, para quando eu me sentir mais confortável nesta tecnologia eu começar a aprender bibliotecas e frameworks (estou pensando em começar pelo React e depois Angular).
 
 ## Email para contato:
 - [thiagomartinsmiranda.27.09@gmail.com]()
