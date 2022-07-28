@@ -1,5 +1,5 @@
 ### Olá, eu sou o Thiago Martins! 😄
-#### Sou um estudante da área da computação que sonha em um dia ser um programador fullstack. Seja bem-vindo ao meu GitHub e sinta-se a vontade para olhar os meus projetos passado e algumas das minhas participações em processos seletivos de empresas. Onde eu decidi upar para o meu GitHub com o intuito de estudar meus códigos futuramente e ver os meus erros e avanços!! 😁
+#### Sou um estudante da área da computação que sonha em um dia ser um programador fullstack. Seja bem-vindo ao meu GitHub e sinta-se a vontade para olhar os meus projetos já realizados e algumas das minhas participações em processos seletivos de empresas. Onde eu decidi upar para o meu GitHub com o intuito de estudar meus códigos futuramente e ver os meus erros e avanços!! 😁
 
 [![Linkedin target="_blank"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-martins-6757661b6/)
 
@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mentins&langs_count=8)](https://github.com/Mentins/github-readme-stats)
 <br>
 
-Sou um apaixonado por tecnologia. No momento eu me encontro estudando sobre programação web, mais precisamente o JavaScript puro, para quando eu me sentir mais confortável nesta tecnologia eu começar a aprender bibliotecas e frameworks (estou pensando em começar pelo React e depois Angular).
+Sou um apaixonado por tecnologia. No momento eu me encontro estudando PHP. Pois eu já aprendi bastante sobre o front-end, e seguindo o roadmap que eu montei através de bastante pesquisa sobre a área, está na hora de começar a aprender uma linguagem back-end.
 
 ## Email para contato:
 - [thiagomartinsmiranda.27.09@gmail.com]()
